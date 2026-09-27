@@ -1,0 +1,70 @@
+post_id,title,category,score,num_comments,author,collected_at
+49863864,Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI,technology,524,433,papergirl,2026-09-27 20:53:08+05:30
+49856885,Fakecloud: Local AWS cloud emulator for integration tests,technology,28,11,theanonymousone,2026-09-27 20:53:08+05:30
+49865343,"""As a Language Model"": Chat Template Switches LLM Self-Referential Voice",technology,80,83,yu3zhou4,2026-09-27 20:53:08+05:30
+49832768,A searchable library of forgotten public-domain film clips from 1915 onward,technology,195,26,momentmaker,2026-09-27 20:53:08+05:30
+49836579,How I changed teaching after AI managed to do all my homework assignments,technology,259,238,azhenley,2026-09-27 20:53:08+05:30
+49864642,"Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",technology,343,245,rbanffy,2026-09-27 20:53:08+05:30
+49854875,How to keep enjoying programming in a world of LLMs,technology,290,307,signa11,2026-09-27 20:53:08+05:30
+49851883,Generate fonts where every LLM token is the same width,technology,81,17,z-mach9,2026-09-27 20:53:08+05:30
+49839567,Evolving programming languages in the AI era,technology,123,85,pjm331,2026-09-27 20:53:08+05:30
+49854416,Floci: Locally emulating any cloud service,technology,188,43,theanonymousone,2026-09-27 20:53:08+05:30
+49849985,Revealing the details of how OpenAI agents hacked Hugging Face,technology,728,458,specked-citrus,2026-09-27 20:53:08+05:30
+49862892,Introducing Casita: A content-addressed store for source code and build artifact,technology,9,0,domenkozar,2026-09-27 20:53:08+05:30
+49852143,How one Twitch chat message became code execution on a streamer’s PC,technology,61,29,tau255,2026-09-27 20:53:08+05:30
+49853175,"A single function Jev-like wrapper for LLMs, including vision models",technology,147,44,allanrbo,2026-09-27 20:53:08+05:30
+49856665,OpenAI bots meddled with multiple US Government agency sites,technology,123,183,Betelbuddy,2026-09-27 20:53:08+05:30
+49845977,U.S. appeals court upholds designation of Anthropic as supply chain risk,technology,492,872,cramer4next,2026-09-27 20:53:08+05:30
+49844896,Microsoft abandons personal AI chatbot race with Copilot reboot,technology,152,145,sbulaev,2026-09-27 20:53:08+05:30
+49857572,Automattic has a new board after failed attempt to put CEO on leave,technology,141,175,ilamont,2026-09-27 20:53:08+05:30
+49842409,I wrote a ray tracer in Brainfuck,technology,90,21,epestr,2026-09-27 20:53:08+05:30
+49864790,OpenAI pauses training of latest models after agents probed US Government sites,technology,15,1,ml-student,2026-09-27 20:53:08+05:30
+49823490,A new world airport and its baggage,technology,72,5,firloop,2026-09-27 20:53:08+05:30
+49841563,Dutch governments builds alternative for Microsoft based on NixOS,worldnews,1002,577,fjfaase,2026-09-27 20:53:08+05:30
+49829960,Owners mourn spoiled food after firmware update bricks Samsung smart fridges,worldnews,321,328,nonfamous,2026-09-27 20:53:08+05:30
+49835913,August 27 TCRF DDoS Attack Postmortem,worldnews,34,14,panic,2026-09-27 20:53:08+05:30
+49828409,Starlink ground station in Poland hit by fire in suspected arson attack,worldnews,181,181,giuliomagnifico,2026-09-27 20:53:08+05:30
+49811065,Transit rewards,worldnews,258,345,raybb,2026-09-27 20:53:08+05:30
+49808109,The UV index is not the warm sensation of sunlight on bare skin,worldnews,99,79,evakhoury,2026-09-27 20:53:08+05:30
+49826381,Ask HN: How do you deal with cyber attacks once you scale?,worldnews,6,2,cehgmaster,2026-09-27 20:53:08+05:30
+49845052,Starcraft Brood War self-play RL bot beats strong human [video],worldnews,12,2,snippyhollow,2026-09-27 20:53:08+05:30
+49845865,The Age of Personalized Hardware,worldnews,9,0,arbayi,2026-09-27 20:53:08+05:30
+49849820,Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia,sports,63,43,msephton,2026-09-27 20:53:08+05:30
+49844642,What happens when you analyze your favorite college football team like the CIA?,sports,64,35,adam,2026-09-27 20:53:08+05:30
+49836590,The Board Game of the Alpha Nerds (2014),sports,121,63,neonate,2026-09-27 20:53:08+05:30
+49849406,Time Measurement in Game Programming,sports,13,0,ibobev,2026-09-27 20:53:08+05:30
+49829387,Hackers influence ChatGPT and Gemini to direct users to scam centers,sports,142,52,ArielSimon,2026-09-27 20:53:08+05:30
+49847157,Show HN: I made a WWI dogfight game that runs in the browser,sports,7,7,fullstackwife,2026-09-27 20:53:08+05:30
+49866951,"In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life",science,33,9,danso,2026-09-27 20:53:08+05:30
+49839438,"Biology might not be quantum, but its math is quantumlike",science,101,37,pseudolus,2026-09-27 20:53:08+05:30
+49830606,Google’s Project Suncatcher to put ML infrastructure in space,science,232,530,xnx,2026-09-27 20:53:08+05:30
+49853918,Alberta's image as world's only rat-free region shattered by discovery of rat,science,46,33,pseudolus,2026-09-27 20:53:08+05:30
+49835866,Ask HN: Any nerds out there who've read a lot of research papers?,science,28,27,shriy-singh,2026-09-27 20:53:08+05:30
+49824969,FLAWED's Flaws and What This Means for Industry Research,science,24,4,tob_scott_a,2026-09-27 20:53:08+05:30
+49850734,Prima: NASA will try to build a billion-dollar space telescope in record time,science,5,0,rbanffy,2026-09-27 20:53:08+05:30
+49847975,Sham scientific societies are misleading star researchers,science,6,0,sbulaev,2026-09-27 20:53:08+05:30
+49824144,Show HN: A CC0 museum of retro 3D tricks you can paste into a page,entertainment,16,2,SouthWestAtlas,2026-09-27 20:53:08+05:30
+49858513,Show HN: Reladraw – A diagram language where you decide where to place things,entertainment,351,93,jpwalsh234,2026-09-27 20:53:08+05:30
+49845172,Show HN: Jev Plays Pokémon Red,entertainment,264,116,pancomplex,2026-09-27 20:53:08+05:30
+49849986,Show HN: Ekselio – Loveable for finance workflows (local first),entertainment,37,10,kdautaj,2026-09-27 20:53:08+05:30
+49852302,Jury finds Facebook liable for deceiving users in Cambridge Analytica case,entertainment,409,105,pseudolus,2026-09-27 20:53:08+05:30
+49844497,Show HN: Hacker Atlas - A map of what Hacker News talks about,entertainment,85,27,andrearitossa,2026-09-27 20:53:08+05:30
+49858409,"Show HN: Spivak's Calculus formalized in Lean 4 – every theorem, every problem",entertainment,17,2,jsLavaGoat,2026-09-27 20:53:08+05:30
+49856691,Show HN: I checked 1M free proxies – 1 in 5 working ones injected scripts,entertainment,10,1,taventix,2026-09-27 20:53:08+05:30
+49821438,Show HN: AgentRun: DSL to turn agents into workflows,entertainment,51,12,miguelrios,2026-09-27 20:53:08+05:30
+49823738,Show HN: Make cursed fonts like Times New Bastard,entertainment,855,123,MitPitt,2026-09-27 20:53:08+05:30
+49842596,Show HN: Agentic CUDA Kernel Optimizer,entertainment,37,11,bertaye,2026-09-27 20:53:08+05:30
+49823332,Show HN: Jevgpt – reinventing the wheel with another wheel,entertainment,25,2,kunggaochicken,2026-09-27 20:53:08+05:30
+49801329,Show HN: Drop – A rootless Linux sandbox with gVisor support,entertainment,192,63,mixedbit,2026-09-27 20:53:08+05:30
+49850553,Show HN: Recurse – Develop and deploy specialist agents faster,entertainment,8,4,ozankabak,2026-09-27 20:53:08+05:30
+49800574,"Show HN: JevBench, a reproducible benchmark for typed decision models",entertainment,149,39,florianstandhar,2026-09-27 20:53:08+05:30
+49832080,Show HN: Most Hated Tools,entertainment,32,20,leonagano,2026-09-27 20:53:08+05:30
+49843909,"Show HN: Hamilton – a no-internet Android health dashboard, named after my dog",entertainment,12,12,hamilton_app,2026-09-27 20:53:08+05:30
+49862131,His Novel Had a Shot at a Top Book Prize. Then Someone Ran an A.I. Test.,entertainment,7,1,bookofjoe,2026-09-27 20:53:08+05:30
+49839672,"Show HN: Avoid smooth spinners, use low-FPS spinners",entertainment,25,27,nh2,2026-09-27 20:53:08+05:30
+49860499,"The new MacBook is cool, but the PowerBook Duo was cooler (2015)",entertainment,5,0,CharlesW,2026-09-27 20:53:08+05:30
+49800513,Show HN: Npunlock – Run custom C kernels for Intel NPUs,entertainment,67,16,hsfzxjy,2026-09-27 20:53:08+05:30
+49821086,Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes,entertainment,37,7,Loren_SL,2026-09-27 20:53:08+05:30
+49831456,Japanese used bookstores see 5x sales surge as books are being bought by the ton,entertainment,92,128,speckx,2026-09-27 20:53:08+05:30
+49846121,Meta bans another Toronto performer from Instagram and Facebook over Bikini,entertainment,39,6,bhouston,2026-09-27 20:53:08+05:30
+49828019,Show HN: Trader News – Hacker News for Finance,entertainment,25,17,FailMore,2026-09-27 20:53:08+05:30
